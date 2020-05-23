@@ -1,5 +1,5 @@
-# MapeoLocalJson Marvel&DC
-**Una aplicacion, lista de personajes con vista de datos.**
+# Marvel & DC
+**Una aplicacion de mapeo local con json, lista de personajes con vista de datos.**
 
 >Muestra
 
